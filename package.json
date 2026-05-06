@@ -1,0 +1,15 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "Allah ke name se start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "Backend"
+  ],
+  "author": "Shakir",
+  "license": "ISC"
+}

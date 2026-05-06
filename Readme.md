@@ -1,0 +1,2 @@
+# Learning Backend
+This repository contains the code and resources for learning backend development. It includes various projects, tutorials, and exercises to help you understand and practice backend programming concepts.
